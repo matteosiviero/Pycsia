@@ -9,7 +9,9 @@
 
 // temporary change
 // andrea adds a temporary change
-// provo a cambiare io qualcosa
+// andrea adds another temporary change
+
+
 /***************************** Include Files *********************************/
 #include "AA02UIDT_lib.h"
 #include "stm32l4xx_hal.h"
